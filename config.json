@@ -1,0 +1,31 @@
+{
+    "idCliente": "1489425812326191155",
+    "idServidor": "1144302400774086698",
+    "mta": {
+        "host": "177.54.146.12",
+        "port": 22080
+    },
+    "cargos": {
+        "admin": "1144302722619805706",
+        "suporte": "1414042469489709064"
+    },
+    "canais": {
+        "geral": {
+            "statusCity": "1464037727480578201"
+        }
+    },
+    "categorias": {
+        "ticket": "1465203607174385674"
+    },
+    "images": {
+        "ticket": {
+            "banner": "https://i.imgur.com/ZpHU4Ii.png",
+            "footer": "https://i.imgur.com/BNZZCER.png",
+            "thumbnail": "https://i.imgur.com/BNZZCER.png"
+        },
+        "status": {
+            "banner": "https://i.imgur.com/hb8k9gz.png",
+            "footer": "https://i.imgur.com/BNZZCER.png"
+        }
+    }
+}
